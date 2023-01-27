@@ -1,4 +1,3 @@
-# blog
 # Blog Site
 -- Image of site -- 
 # About This Project
